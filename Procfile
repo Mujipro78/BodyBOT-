@@ -1,1 +1,1 @@
-worker : pkg update && pkg upgrade && pkg install nodejs && pkg install ffmpeg && pkg install imagemagick && npm start
+worker : npm i ffmpeg &&  npm i @adiwajshing/baileys@latest && npm start
