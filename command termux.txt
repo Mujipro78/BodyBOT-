@@ -1,0 +1,23 @@
+***COMMAND TERMUX RIBET BAGI KALIAN YG BELUM PERNAH INSTALL BOT***
+
+$.pkg update && pkg upgrade
+$.pkg install nodejs
+$.pkg install ffmpeg
+$.pkg install imagemagick
+$.termux-setup-storage
+$.cd /sdcard/BodyBOT
+$.npm start
+
+***COMMAND TERMUX SIMPLE LANGSUNG CROT BAGI KALIAN YG BELUM PERNAH INSTALL BOT***
+
+$. pkg update && pkg upgrade && pkg install nodejs && pkg install ffmpeg && pkg install imagemagick && termux-setup-storage && cd /sdcard/BodyBOT && npm start
+
+***COMMAND TERMUX RIBET BAGI KALIAN YG SERING AKTIFIN BOT***
+
+$. cd /sdcard 
+$. cd BodyBOT
+$. npm start
+
+***COMMAND TERMUX SIMPLE LANGSUNG CROT BAGI KALIAN YG SERING AKTIFIN BOT***
+
+$. cd /sdcard/BodyBOT && npm start
